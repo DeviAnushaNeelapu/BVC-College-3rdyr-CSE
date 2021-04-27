@@ -1,0 +1,14 @@
+Todays concepts is:
+Navigation Components:-
+
+Navigation means moving around from one activity/fragment to another activity/fragment.
+
+3 components consits of three keys parts:
+1.Navigation Graph
+2.Navgation Controller
+3.Navigation Host
+
+Navigation Component is an Android JetPack library helps to handle navigation in much easier way.
+
+
+
